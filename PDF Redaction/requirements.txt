@@ -1,0 +1,9 @@
+spacy == 3.7.2
+en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.7.0/en_core_web_md-3.7.0-py3-none-any.whl#sha256=d37c3d60738be409a04f83a51421075b94fc02efad99bb8e62ec9018b1f99cb0
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.0/en_core_web_sm-3.7.0-py3-none-any.whl#sha256=6215d71a3212690e9aec49408a27e3fe6ad7cd6c715476e93d70dc784041e93e
+Faker==20.0.3
+pdf2image==1.16.3
+Pillow==10.0.1
+pytesseract==0.3.10
+PyMuPDF==1.23.5
+PyMuPDFb==1.23.5
